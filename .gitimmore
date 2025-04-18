@@ -1,0 +1,76 @@
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+share/python-wheels/
+*.manifest
+*.dmg
+*.deb
+*.rpm
+
+# PyInstaller
+#  Usually covered by build/ and dist/
+# *.pyzw
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+env.bak
+venv.bak
+
+# Secrets (like API keys if stored in .env)
+.env
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+*.swp
+*~
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Config files potentially containing secrets (if not using .env)
+# config/secrets.ini
+```
