@@ -1,1 +1,11 @@
- 
+*   Manually create or generate with `pip freeze > requirements.txt` and then edit.
+*   **Example Minimum Content:**
+    ```
+    PySide6 >= 6.6.0 # Or your specific version
+    RestrictedPython >= 6.0 # Check latest compatible version
+    openai >= 1.0.0 # Or your AI library
+    # Add other direct dependencies like:
+    # requests
+    # Pillow
+    # python-dotenv
+    ``` 
