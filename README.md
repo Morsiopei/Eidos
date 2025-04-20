@@ -24,7 +24,7 @@
         *   (If applicable) Git
     2.  **Clone the repository (Optional):**
         ```bash
-        git clone [your-repo-url]
+        git clone https://github.com/Morsiopei/Eidos.git
         cd Eidos
         ```
     3.  **Create and activate a virtual environment:**
